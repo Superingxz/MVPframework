@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\asworkspace\\MVPframework\\library\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\ic_search.png",
+        "source": "E:\\asworkspace\\MVPframework\\library\\src\\main\\res\\mipmap-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "E:\\asworkspace\\MVPframework\\library\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\asworkspace\\MVPframework\\library\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\asworkspace\\MVPframework\\library\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\splash_background.jpg",
+        "source": "E:\\asworkspace\\MVPframework\\library\\src\\main\\res\\mipmap-xxhdpi\\splash_background.jpg"
+    }
+]

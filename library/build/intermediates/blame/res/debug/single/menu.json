@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\asworkspace\\MVPframework\\library\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "E:\\asworkspace\\MVPframework\\library\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MVPframework\\library\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\asworkspace\\MVPframework\\library\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MVPframework\\library\\build\\intermediates\\res\\merged\\debug\\menu\\menu_overaction.xml",
+        "source": "E:\\asworkspace\\MVPframework\\library\\src\\main\\res\\menu\\menu_overaction.xml"
+    }
+]
